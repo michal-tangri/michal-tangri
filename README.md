@@ -60,6 +60,7 @@
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
             <span><img src="https://plugins.jetbrains.com/assets/icons/jetbrains.png" width="30px"></span>&nbsp;
+            <span><img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" width="30px"></span>&nbsp;
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="30px"></span>&nbsp;
             <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="30px"></span>&nbsp;
         </td>
