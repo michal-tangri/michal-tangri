@@ -8,7 +8,7 @@
 - 💬 Ask me about Node.js, Java and sailing
 - 📫 How to reach me: <a href="https://discordapp.com/users/401427838772707351">Discord</a>, <a href="https://twitter.com/lilhueh">Twitter</a> or <a href="mailto:mt.michaltangri@gmail.com">e-mail</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: My average typing speed is around 90 WPM (103 WPM is my personal best)
 
 <h3>💻 Technology Stack 💻</h3>
 
