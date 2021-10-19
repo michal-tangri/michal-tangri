@@ -3,7 +3,7 @@
 <h3>✨ About me ✨</h3>
 
 - 🔭 I’m currently working on my engineer's thesis
-- 🌱 I’m currently learning Design Patters
+- 🌱 I’m currently learning Design Patterns
 - 👯 I'm looking to collaborate on new and fascinating projects!
 - 💬 Ask me about Node.js, Java and sailing
 - 📫 How to reach me: <a href="https://discordapp.com/users/401427838772707351">Discord</a>, <a href="https://twitter.com/lilhueh">Twitter</a> or <a href="mailto:mt.michaltangri@gmail.com">e-mail</a>
